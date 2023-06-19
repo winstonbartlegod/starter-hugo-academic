@@ -45,8 +45,7 @@ status:
 last_name: Bartle
 role: Associate Consultant Financial Risk Management
 highlight_name: true
-title: Winston Bartle 
-       (陈伟信)
+title: Winston Bartle
 first_name: Winston
 email: ""
 ---
