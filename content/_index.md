@@ -60,14 +60,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Business Analyst
+          company: Tencent WeChat Pay HK
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: Tencent_Logo
+          location: Hong Kong
+          date_start: '2022-11-01'
+          date_end: '2023-03-18'
+          description: Consulted on the implementation of NFT in WeChat Pay HK e-wallet
     design:
       columns: '2'
   - block: accomplishments
