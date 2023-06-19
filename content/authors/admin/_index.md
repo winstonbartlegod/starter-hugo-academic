@@ -4,8 +4,8 @@ bio: My research interests include the application of Machine Learning, NLP and
   AI on Financial Services
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Neural Networks
+  - Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +35,7 @@ education:
       year: 2023
     - course: BSc in Econometrics & Data Science
       institution: University of Amsterdam
-      year: 1989
+      year: 2022
     - course: BSc in Artificial Intelligence
       institution: University of Groningen
       year: 2019
@@ -49,5 +49,5 @@ title: Winston Bartle (陈伟信)
 first_name: Alice
 email: ""
 ---
-Winston Bartle is an associate consultant of Financial Services Risk Management at Ernest & Young (EY). His research interests include Machine Learning, Deep Learning, Graphs, NLP, AI. 
+Winston Bartle is an associate consultant of Financial Services Risk Management at Ernest & Young (EY). His research interests include Machine Learning, Deep Learning, Graphs, NLP,  AI. 
 {style="text-align: justify;"}
