@@ -67,7 +67,9 @@ sections:
           location: Hong Kong
           date_start: '2022-11-01'
           date_end: '2023-03-18'
-          description: Consulted on the implementation of NFT in WeChat Pay HK e-wallet
+          description: |2-
+              * Collaborated with a team of two to conduct extensive research and analysis on potential use cases for NFTs in e-wallets, partnering with Tencent WeChat Pay HK to leverage cutting-edge technology and drive innovative solutions
+              * Provided expert guidance to Tencent on implementation of NFTs within the WeChat Pay e-wallet, researched strategic advice on regulatory and compliance requirements in Hong Kong to ensure successful project execution
     design:
       columns: '2'
   - block: accomplishments
