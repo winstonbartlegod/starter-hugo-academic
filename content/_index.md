@@ -50,7 +50,7 @@ sections:
         - title: Associate Consultant Financial Risk Management
           company: Ernest & Young (EY)
           company_url: ''
-          company_logo: EY_logo_2019
+          company_logo: EY_logo
           location: Hong Kong
           date_start: '2023-09-18'
           date_end: ''
