@@ -55,11 +55,8 @@ sections:
           date_start: '2023-09-18'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Develop & applying artificial intelligence/machine learning algorithms for risk management, review their performance & monitoring, running test & experiments as required
+              * Deliver customized solutions to the clients for them to fulfill regulatory & business requirements
         - title: Business Analyst Apprenticeship
           company: Tencent WeChat Pay HK
           company_url: 'https://pay.wechat.com/en/index.shtml'
