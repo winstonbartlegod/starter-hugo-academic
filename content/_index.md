@@ -63,7 +63,7 @@ sections:
         - title: Business Analyst Apprenticeship
           company: Tencent WeChat Pay HK
           company_url: 'https://pay.wechat.com/en/index.shtml'
-          company_logo: wechatpay4
+          company_logo: wechatpay5
           location: Hong Kong
           date_start: '2022-11-01'
           date_end: '2023-03-18'
