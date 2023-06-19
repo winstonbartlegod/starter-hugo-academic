@@ -60,7 +60,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Business Analyst
+        - title: Business Analyst Apprenticeship
           company: Tencent WeChat Pay HK
           company_url: ''
           company_logo: wechatpay3
