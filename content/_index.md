@@ -63,7 +63,7 @@ sections:
         - title: Business Analyst
           company: Tencent WeChat Pay HK
           company_url: ''
-          company_logo: wechatpay2
+          company_logo: wechatpay3
           location: Hong Kong
           date_start: '2022-11-01'
           date_end: '2023-03-18'
