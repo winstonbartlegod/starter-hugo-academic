@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/winston-bartle-7a97971bb/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CVWinston.pdf
 organizations:
   - name: Ernest & Young (EY)
     url: https://www.ey.com/en_gl/consulting/financial-services-risk-management
@@ -42,11 +42,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Bartle
 role: Associate Consultant Financial Risk Management
 highlight_name: true
 title: Winston Bartle (陈伟信)
-first_name: Alice
+first_name: Winston
 email: ""
 ---
 Winston Bartle is an associate consultant of Financial Services Risk Management at Ernest & Young (EY). His research interests include Machine Learning, Deep Learning, Graphs, NLP,  AI. 
