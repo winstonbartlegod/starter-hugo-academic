@@ -23,6 +23,10 @@ sections:
           description: 100%
           icon: python
           icon_pack: fab
+        - name: Latex
+          description: 90%
+          icon: overleaf
+          icon_pack: ai
         - name: Statistics
           description: 100%
           icon: chart-line
