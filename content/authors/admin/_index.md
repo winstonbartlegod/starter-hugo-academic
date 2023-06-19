@@ -1,5 +1,5 @@
 ---
-avatar_filename: 2.jpeg
+avatar_filename: 2.jpg
 bio: My research interests include the application of Machine Learning, NLP and
   AI on Financial Services
 interests:
