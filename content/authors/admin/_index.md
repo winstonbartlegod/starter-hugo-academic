@@ -1,7 +1,7 @@
 ---
-avatar_filename: personalphotogrey.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 2.jpeg
+bio: My research interests include the application of Machine Learning, NLP and
+  AI on Financial Services
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -12,36 +12,33 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/winnieflyhigh
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/winstonbartlegod
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/winston-bartle-7a97971bb/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ernest & Young (EY)
+    url: https://www.ey.com/en_gl/consulting/financial-services-risk-management
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MSc in Financial Technology
+      institution: Hong Kong University of Science & Technology
+      year: 2023
+    - course: BSc in Econometrics & Data Science
+      institution: University of Amsterdam
+      year: 1989
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Groningen
+      year: 2019
 superuser: true
 status:
   icon: ☕️
@@ -52,6 +49,5 @@ title: Winston Bartle (陈伟信)
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Winston Bartle is an associate consultant of Financial Services Risk Management at Ernest & Young (EY). His research interests include Machine Learning, Deep Learning, Graphs, NLP, AI. 
 {style="text-align: justify;"}
