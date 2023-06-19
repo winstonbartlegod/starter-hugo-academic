@@ -49,7 +49,7 @@ sections:
       items:
         - title: Associate Consultant Financial Risk Management
           company: Ernest & Young (EY)
-          company_url: ''
+          company_url: 'https://www.ey.com/en_gl/consulting/financial-services-risk-management'
           company_logo: EY_logo
           location: Hong Kong
           date_start: '2023-09-18'
@@ -62,7 +62,7 @@ sections:
               * Deploying
         - title: Business Analyst Apprenticeship
           company: Tencent WeChat Pay HK
-          company_url: ''
+          company_url: 'https://pay.wechat.com/en/index.shtml'
           company_logo: wechatpay3
           location: Hong Kong
           date_start: '2022-11-01'
@@ -70,6 +70,16 @@ sections:
           description: |2-
               * Collaborated with a team of two to conduct extensive research and analysis on potential use cases for NFTs in e-wallets, partnering with Tencent WeChat Pay HK to leverage cutting-edge technology and drive innovative solutions
               * Provided expert guidance to Tencent on implementation of NFTs within the WeChat Pay e-wallet, researched strategic advice on regulatory and compliance requirements in Hong Kong to ensure successful project execution
+        - title: Engineering Consultancy Intern
+          company: Jurutera Perunding ICLA Sdn. Bhd
+          company_url: 'https://www.linkedin.com/company/jpiclasb/?originalSubdomain=my'
+          company_logo: icla
+          location: Kuala Lumpur, Malaysia
+          date_start: '2022-12-18'
+          date_end: '2023-02-02'
+          description: |2-
+              * Applied advanced mathematical and engineering principles to conduct complex calculations on water flow rates through pipes and head pressure of water pumps, utilizing R programming to facilitate analysis
+              * Led detailed calculations on electrical voltage drop in single-phase systems, leveraging advanced knowledge of electrical engineering principles and techniques to ensure optimal system performance and reliability
     design:
       columns: '2'
   - block: accomplishments
