@@ -180,6 +180,14 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: AI Generated Images
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo2" >}}
+    design:
+      columns: '1'
   # - block: collection
   #   id: featured
   #   content:
