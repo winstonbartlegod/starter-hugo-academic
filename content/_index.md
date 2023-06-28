@@ -182,7 +182,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: AI Generated Images
+      title: AI Generated Images By Winston Bartle
       subtitle: ''
       text: |-
         {{< gallery album="demo2" >}}
