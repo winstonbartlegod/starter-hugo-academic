@@ -179,7 +179,7 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: featured
   #   content:
